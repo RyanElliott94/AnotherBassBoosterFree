@@ -1,0 +1,308 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d7ab8c68aa6196a3ea686895b6775f2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0-alpha07] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\15b2b592b93d070793da9e9b20754a8c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\02965a456b1aaea7e1e11308b5f83d34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\e2eb549a8fd1a7781f37bf339ef183ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\091cadb3f69972dd91de45f0038761f3\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\0d782f7e38ba82933223b6d02d1df1fd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\acc88e4842245f658d5c7d96d1e9b52e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\a2e7b10118cc4a36f6b70d2867607af8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f277150067ef5597049b0609fcd1bfac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\b5a53d1152b4166d52f3e6da8080ba20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f018451836fdbd692871b0975cdf12f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\87a3448a15018a54f1dbbc2fb80f2965\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\a426e7987aecf1d7b0fb075dbbdba105\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\c07941aa7fa21916865c80a5e5aaab64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\00f830eea266e17bfc6f01d3fafb25dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3d883729214bb491e9d00cf6b68cfdcb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\30547158d2cae1aa20fb89658f5f9d9f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha04] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d0516366de7cb743e157989a0d059f12\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\fe4f5f8ebc8c95f15bc5c5898e6fbc81\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2f51475769d90a0968a89e7ad0b9c9e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\c5a4db7c85b812e5988053cd75129135\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\95e75c88b39dcdc52cb993528b192193\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\27d7d75a78dddcf75ffbea7aac638ea9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3794c3d13b4911aecaa3148573c2f193\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f8e63413e72b426c392d714f5944e1ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\81bd2a4b6da4c8cf2642373ef190bf01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2632d0f4b7e98a71341f514633bcb7bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2019c0e96a8615f8d03b5e4ce7ceb5b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\1267d8a163241b1129fb58e31a399cc6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\75c1c0ab797423d0f294c0a6757bb593\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\fb2243f5aed1e2ba252ba341f74c68c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d69537cc1a52faaa2325cec9f5c0e2b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\38c5c225cc91fe138c8ac0210a232dcd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\8dbb82697a97b80983570f900bfe9c88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\434ca3f70471fb6d3e9759a074670e5c\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\947af8fbefe2035a82b207ca23e88c71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\e96b71010843864bacd338969acee050\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7fb985b478d99e456f35ec87aa9f265f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\318f80f3570688e0bedcc26130d165a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2ea04e33e33d568b36ce5e0d377d97b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6dbe351788defbfe88cd651faa8de829\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6b4d6689415ea8db24b0cd354575daac\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:9:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:12:5-36:15
+MERGED from [com.google.android.material:material:1.1.0-alpha07] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\15b2b592b93d070793da9e9b20754a8c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha07] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\15b2b592b93d070793da9e9b20754a8c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\00f830eea266e17bfc6f01d3fafb25dd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\00f830eea266e17bfc6f01d3fafb25dd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3d883729214bb491e9d00cf6b68cfdcb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3d883729214bb491e9d00cf6b68cfdcb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\30547158d2cae1aa20fb89658f5f9d9f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\30547158d2cae1aa20fb89658f5f9d9f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\1267d8a163241b1129fb58e31a399cc6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\1267d8a163241b1129fb58e31a399cc6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\434ca3f70471fb6d3e9759a074670e5c\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\434ca3f70471fb6d3e9759a074670e5c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6b4d6689415ea8db24b0cd354575daac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6b4d6689415ea8db24b0cd354575daac\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\1267d8a163241b1129fb58e31a399cc6\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:17:9-48
+	android:icon
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:16:9-40
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:18:9-20:69
+	android:value
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:20:13-67
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:19:13-69
+activity#com.simplistic.anotherbassbooster.MainActivity
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:23:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:28:27-74
+service#com.simplistic.anotherbassbooster.Background
+ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:32:9-34:38
+	android:enabled
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:34:13-35
+	android:name
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml:33:13-72
+uses-sdk
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d7ab8c68aa6196a3ea686895b6775f2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d7ab8c68aa6196a3ea686895b6775f2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha07] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\15b2b592b93d070793da9e9b20754a8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha07] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\15b2b592b93d070793da9e9b20754a8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\02965a456b1aaea7e1e11308b5f83d34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\02965a456b1aaea7e1e11308b5f83d34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\e2eb549a8fd1a7781f37bf339ef183ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\e2eb549a8fd1a7781f37bf339ef183ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\091cadb3f69972dd91de45f0038761f3\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\091cadb3f69972dd91de45f0038761f3\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.media:media:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\0d782f7e38ba82933223b6d02d1df1fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\0d782f7e38ba82933223b6d02d1df1fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\acc88e4842245f658d5c7d96d1e9b52e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\acc88e4842245f658d5c7d96d1e9b52e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\a2e7b10118cc4a36f6b70d2867607af8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\a2e7b10118cc4a36f6b70d2867607af8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f277150067ef5597049b0609fcd1bfac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f277150067ef5597049b0609fcd1bfac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\b5a53d1152b4166d52f3e6da8080ba20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\b5a53d1152b4166d52f3e6da8080ba20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f018451836fdbd692871b0975cdf12f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f018451836fdbd692871b0975cdf12f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\87a3448a15018a54f1dbbc2fb80f2965\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\87a3448a15018a54f1dbbc2fb80f2965\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\a426e7987aecf1d7b0fb075dbbdba105\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\a426e7987aecf1d7b0fb075dbbdba105\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\c07941aa7fa21916865c80a5e5aaab64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\c07941aa7fa21916865c80a5e5aaab64\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\00f830eea266e17bfc6f01d3fafb25dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\00f830eea266e17bfc6f01d3fafb25dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3d883729214bb491e9d00cf6b68cfdcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3d883729214bb491e9d00cf6b68cfdcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\30547158d2cae1aa20fb89658f5f9d9f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\30547158d2cae1aa20fb89658f5f9d9f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha04] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d0516366de7cb743e157989a0d059f12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha04] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d0516366de7cb743e157989a0d059f12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\fe4f5f8ebc8c95f15bc5c5898e6fbc81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\fe4f5f8ebc8c95f15bc5c5898e6fbc81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2f51475769d90a0968a89e7ad0b9c9e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2f51475769d90a0968a89e7ad0b9c9e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\c5a4db7c85b812e5988053cd75129135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\c5a4db7c85b812e5988053cd75129135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\95e75c88b39dcdc52cb993528b192193\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\95e75c88b39dcdc52cb993528b192193\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\27d7d75a78dddcf75ffbea7aac638ea9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\27d7d75a78dddcf75ffbea7aac638ea9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3794c3d13b4911aecaa3148573c2f193\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\3794c3d13b4911aecaa3148573c2f193\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f8e63413e72b426c392d714f5944e1ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f8e63413e72b426c392d714f5944e1ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\81bd2a4b6da4c8cf2642373ef190bf01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\81bd2a4b6da4c8cf2642373ef190bf01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2632d0f4b7e98a71341f514633bcb7bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2632d0f4b7e98a71341f514633bcb7bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2019c0e96a8615f8d03b5e4ce7ceb5b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2019c0e96a8615f8d03b5e4ce7ceb5b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\1267d8a163241b1129fb58e31a399cc6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\1267d8a163241b1129fb58e31a399cc6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\75c1c0ab797423d0f294c0a6757bb593\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\75c1c0ab797423d0f294c0a6757bb593\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\fb2243f5aed1e2ba252ba341f74c68c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\fb2243f5aed1e2ba252ba341f74c68c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d69537cc1a52faaa2325cec9f5c0e2b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\d69537cc1a52faaa2325cec9f5c0e2b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\38c5c225cc91fe138c8ac0210a232dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\38c5c225cc91fe138c8ac0210a232dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\8dbb82697a97b80983570f900bfe9c88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\8dbb82697a97b80983570f900bfe9c88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\434ca3f70471fb6d3e9759a074670e5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\434ca3f70471fb6d3e9759a074670e5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\947af8fbefe2035a82b207ca23e88c71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\947af8fbefe2035a82b207ca23e88c71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\e96b71010843864bacd338969acee050\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\e96b71010843864bacd338969acee050\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7fb985b478d99e456f35ec87aa9f265f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7fb985b478d99e456f35ec87aa9f265f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\318f80f3570688e0bedcc26130d165a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\318f80f3570688e0bedcc26130d165a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2ea04e33e33d568b36ce5e0d377d97b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\2ea04e33e33d568b36ce5e0d377d97b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6dbe351788defbfe88cd651faa8de829\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6dbe351788defbfe88cd651faa8de829\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6b4d6689415ea8db24b0cd354575daac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\6b4d6689415ea8db24b0cd354575daac\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\091cadb3f69972dd91de45f0038761f3\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skint_94\StudioProjects\Another Bass Booster Free\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\103bf4049ecf9927181c6dab4c6f1e9e\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:32:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:30:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:34:13-36:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\7c10329be69b1a73bf1074a235fde8a4\AndroidManifest.xml:35:25-76
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skint_94\.gradle\caches\transforms-2\files-2.1\f16591b00ddd0c05cecfa6005b39f456\AndroidManifest.xml:24:13-58

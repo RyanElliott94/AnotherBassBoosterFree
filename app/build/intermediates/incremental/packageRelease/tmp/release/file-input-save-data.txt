@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Jun 23 22:47:42 BST 2019
+1.base=C\:\\Users\\Skint_94\\StudioProjects\\Another Bass Booster Free\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=RobotoThin.ttf
+0.set=ASSET
+0.base=C\:\\Users\\Skint_94\\StudioProjects\\Another Bass Booster Free\\app\\build\\intermediates\\merged_assets\\release\\out
+1.path=classes.dex

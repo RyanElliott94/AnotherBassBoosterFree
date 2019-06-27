@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Skint_94\\StudioProjects\\Another Bass Booster Free\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Skint_94\\.gradle\\caches\\transforms-2\\files-2.1\\15b2b592b93d070793da9e9b20754a8c\\res\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,60",
+                        "endOffsets": "104,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

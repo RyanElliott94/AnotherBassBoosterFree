@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/progress"
+        android:width="250dp"
+        android:height="250dp"
+        android:gravity="center"
+        android:drawable="@drawable/seekbar_progress_bg"/>
+
+    <item>
+        <clip>
+            <bitmap
+                android:src="@drawable/head_edit"
+                android:antialias="true"
+                android:tileMode="clamp"
+                android:dither="true"
+                android:filter="true"
+                />
+        </clip>
+    </item>
+
+</layer-list>
